@@ -9,12 +9,12 @@ This is a simple chatbot built using [LangChain](https://github.com/langchain-ai
 
 Why Use LangChain?
 LangChain simplifies building LLM-powered applications that are:
--> Interactive
--> State-aware
--> Integrated with real-world data
--> Scalable for production use
--> It's widely used in tools like:
-    AI chatbots with memory and tools
-    AI copilots for business tasks
-    Document Q&A systems
-    LLM-powered agents and workflows
+- Interactive
+- State-aware
+- Integrated with real-world data
+- Scalable for production use
+- It's widely used in tools like:
+    - AI chatbots with memory and tools
+    - AI copilots for business tasks
+    - Document Q&A systems
+    - LLM-powered agents and workflows
